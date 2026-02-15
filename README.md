@@ -6,7 +6,7 @@
 ## 🏆 Freelancer Contest Submission
 This is a high-fidelity UX/UI design concept for the **Sentra Home Page**. The goal of this design is to modernize the user experience, build immediate trust with students/parents, and streamline the conversion flow from "visitor" to "booked session."
 
-### 🔗 [View Live Demo](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)
+### 🔗 [View Live Demo](https://wafflez007.github.io/sentra-ux-design/)
 *(Click the link above to experience the interactive hover effects and animations)*
 
 ---
@@ -41,4 +41,4 @@ The design addresses the core challenge of the original site (text-heavy, corpor
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+   git clone [https://github.com/Wafflez007/sentra-ux-design.git](https://github.com/Wafflez007/sentra-ux-design.git)
